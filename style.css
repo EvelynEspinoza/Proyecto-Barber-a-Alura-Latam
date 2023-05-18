@@ -84,7 +84,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background: url(bg.jpg);
+    background: url(imagenes/bg.jpg);
     padding: 40px;
 }
 
@@ -110,6 +110,8 @@ form label, form legend{
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+    border-color: gray;
+    border-width: 5px;
 }
 
 .checkbox{
